@@ -1,0 +1,15 @@
+INSERT INTO "phone_numbers_companies" VALUES (1, 1);
+INSERT INTO "phone_numbers_companies" VALUES (2, 1);
+INSERT INTO "phone_numbers_companies" VALUES (3, 1);
+INSERT INTO "phone_numbers_companies" VALUES (4, 1);
+INSERT INTO "phone_numbers_companies" VALUES (5, 1);
+INSERT INTO "phone_numbers_companies" VALUES (6, 1);
+INSERT INTO "phone_numbers_companies" VALUES (7, 1);
+INSERT INTO "phone_numbers_companies" VALUES (8, 1);
+INSERT INTO "phone_numbers_companies" VALUES (9, 1);
+INSERT INTO "phone_numbers_companies" VALUES (10, 1);
+INSERT INTO "phone_numbers_companies" VALUES (11, 1);
+INSERT INTO "phone_numbers_companies" VALUES (12, 1);
+INSERT INTO "phone_numbers_companies" VALUES (13, 1);
+INSERT INTO "phone_numbers_companies" VALUES (14, 1);
+INSERT INTO "phone_numbers_companies" VALUES (15, 1);

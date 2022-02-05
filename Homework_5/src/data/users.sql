@@ -1,0 +1,5 @@
+INSERT INTO "users" VALUES (1, 'otus_dima', 'otus1@localhost', '2021-07-12 14:26:32', '$2y$10$6yFoQ8G5aWt4ndpaLRl65OpnzaiUfOZ5WD1LbK9KlDmL3F.5SSVZe', 'LtMIm4Jb6V', '2021-12-12 13:27:40', '2021-12-12 14:03:11');
+INSERT INTO "users" VALUES (2, 'otus_oleg', 'otus2@localhost', '2021-07-12 14:26:32', '$2y$10$6yFoQ8G5aWt4ndpaLRl65OpnzaiUfOZ5WD1LbK9KlDmL3F.6SSVZe', 'LtMIm4Jb6V', '2021-12-12 13:27:40', '2021-12-12 14:03:11');
+INSERT INTO "users" VALUES (3, 'otus_petro', 'otus3@localhost', '2021-07-12 14:26:32', '$2y$10$6yFoQ8G5aWt4ndpaLRl65OpnzaiUfOZ5WD1LbK9KlDmL3F.7SSVZe', 'LtMIm4Jb6V', '2021-12-12 13:27:40', '2021-12-12 14:03:11');
+INSERT INTO "users" VALUES (4, 'otus_valerii', 'otus4@localhost', '2021-07-12 14:26:32', '$2y$10$6yFoQ8G5aWt4ndpaLRl65OpnzaiUfOZ5WD1LbK9KlDmL3F.8SSVZe', 'LtMIm4Jb6V', '2021-12-12 13:27:40', '2021-12-12 14:03:11');
+INSERT INTO "users" VALUES (5, 'otus_spider_man', 'otus5@localhost', '2021-07-12 14:26:32', '$2y$10$6yFoQ8G5aWt4ndpaLRl65OpnzaiUfOZ5WD1LbK9KlDmL3F.9SSVZe', 'LtMIm4Jb6V', '2021-12-12 13:27:40', '2021-12-12 14:03:11');
